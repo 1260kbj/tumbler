@@ -3,3 +3,6 @@ dist
 .env
 .clasp.json
 runtime
+.hallmark/
+manufacturing-quality-student-images-main/
+notebooklm-login.bat
